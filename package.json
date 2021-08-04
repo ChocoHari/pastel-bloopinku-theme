@@ -1,0 +1,39 @@
+{
+    "name": "pastel-bloopinku-theme",
+    "displayName": "pastel bloopinku theme",
+    "description": "Blue and pink accent theme for VS code",
+    "version": "1.1.0",
+    "publisher": "ChocoHari",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/ChocoHari/pastel-bloopinku-theme"
+    },
+    "keywords": [
+        "dark",
+        "dark theme",
+        "blue",
+        "blue theme",
+        "pink",
+        "pink theme",
+        "pastel",
+        "pastel theme",
+        "bloopinku",
+        "bloopinku theme",
+        "bloopinku family"
+    ],
+    "engines": {
+        "vscode": "^1.58.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Pastel BlooPinku theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Pastel BlooPinku theme-color-theme.json"
+            }
+        ]
+    }
+}
