@@ -1,9 +1,19 @@
 # Change Log
+All notable changes to this project will be documented in this file.
 
-All notable changes to the "pastel-bloopinku-theme" extension will be documented in this file.
-
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
 ## [Unreleased]
+- Fully customized colors
 
-- Initial release
+## [1.0.0] - 2021-08-04 Night
+- Changed color palette
+- Fixed minor bugs
+- Deployed the extension on the marketplace
+- Updated readme.md
+
+## [0.0.1] - 2021-08-04 Morning
+- Started developing the extension
+- Implemented first color palette
+- Debugging and testing
+- Documenting
+- Created a readme file
